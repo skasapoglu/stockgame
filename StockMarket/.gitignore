@@ -1,6 +1,5 @@
 /.gradle/
 /bin/
 /build/
-/test-output/
 gradlew
 gradlew.bat
